@@ -13,7 +13,7 @@ This project has backend with Express js and front End with React js. The applic
 
 For BackEnd
 1. cd .. (Get back to the root)
-2 cd server
+2. cd server
 3. npm install
 4. node app
 ```
