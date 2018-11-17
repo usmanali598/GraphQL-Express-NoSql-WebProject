@@ -8,8 +8,8 @@ This project has backend with Express js and front End with React js. The applic
 1. git clone https://github.com/usmanali598/GraphQL-Express-NoSql-WebProject.git
 2. cd GraphQL-Express-NoSql-WebProject
 3. cd client
-4. npm install
-5. npm start
+4. yarn install
+5. yarn start
 
 For BackEnd
 1. cd .. (Get back to the root)
